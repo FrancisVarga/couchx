@@ -3,6 +3,7 @@ This lib is a leight weight wrapper for as3HttpClient to speaking with a couchdb
 
 #Dependencies
 [http://github.com/sixones/as3corelib](http://github.com/sixones/as3corelib "http://github.com/sixones/as3corelib")
+
 [http://github.com/dima/as3httpclient](http://github.com/dima/as3httpclient "http://github.com/dima/as3httpclient")
 
 #License
